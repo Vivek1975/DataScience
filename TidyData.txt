@@ -1,0 +1,181 @@
+"DataActivityLabels" "DataSubjects" "n"
+"1" "Laying" "1" 50
+"2" "Laying" "2" 48
+"3" "Laying" "3" 62
+"4" "Laying" "4" 54
+"5" "Laying" "5" 52
+"6" "Laying" "6" 57
+"7" "Laying" "7" 52
+"8" "Laying" "8" 54
+"9" "Laying" "9" 50
+"10" "Laying" "10" 58
+"11" "Laying" "11" 57
+"12" "Laying" "12" 60
+"13" "Laying" "13" 62
+"14" "Laying" "14" 51
+"15" "Laying" "15" 72
+"16" "Laying" "16" 70
+"17" "Laying" "17" 71
+"18" "Laying" "18" 65
+"19" "Laying" "19" 83
+"20" "Laying" "20" 68
+"21" "Laying" "21" 90
+"22" "Laying" "22" 72
+"23" "Laying" "23" 72
+"24" "Laying" "24" 72
+"25" "Laying" "25" 73
+"26" "Laying" "26" 76
+"27" "Laying" "27" 74
+"28" "Laying" "28" 80
+"29" "Laying" "29" 69
+"30" "Laying" "30" 70
+"31" "Sitting" "1" 47
+"32" "Sitting" "2" 46
+"33" "Sitting" "3" 52
+"34" "Sitting" "4" 50
+"35" "Sitting" "5" 44
+"36" "Sitting" "6" 55
+"37" "Sitting" "7" 48
+"38" "Sitting" "8" 46
+"39" "Sitting" "9" 50
+"40" "Sitting" "10" 54
+"41" "Sitting" "11" 53
+"42" "Sitting" "12" 51
+"43" "Sitting" "13" 49
+"44" "Sitting" "14" 54
+"45" "Sitting" "15" 59
+"46" "Sitting" "16" 69
+"47" "Sitting" "17" 64
+"48" "Sitting" "18" 57
+"49" "Sitting" "19" 73
+"50" "Sitting" "20" 66
+"51" "Sitting" "21" 85
+"52" "Sitting" "22" 62
+"53" "Sitting" "23" 68
+"54" "Sitting" "24" 68
+"55" "Sitting" "25" 65
+"56" "Sitting" "26" 78
+"57" "Sitting" "27" 70
+"58" "Sitting" "28" 72
+"59" "Sitting" "29" 60
+"60" "Sitting" "30" 62
+"61" "Standing" "1" 52
+"62" "Standing" "2" 53
+"63" "Standing" "3" 61
+"64" "Standing" "4" 56
+"65" "Standing" "5" 56
+"66" "Standing" "6" 57
+"67" "Standing" "7" 53
+"68" "Standing" "8" 54
+"69" "Standing" "9" 45
+"70" "Standing" "10" 44
+"71" "Standing" "11" 47
+"72" "Standing" "12" 61
+"73" "Standing" "13" 57
+"74" "Standing" "14" 60
+"75" "Standing" "15" 53
+"76" "Standing" "16" 78
+"77" "Standing" "17" 78
+"78" "Standing" "18" 73
+"79" "Standing" "19" 73
+"80" "Standing" "20" 73
+"81" "Standing" "21" 89
+"82" "Standing" "22" 63
+"83" "Standing" "23" 68
+"84" "Standing" "24" 69
+"85" "Standing" "25" 74
+"86" "Standing" "26" 74
+"87" "Standing" "27" 80
+"88" "Standing" "28" 79
+"89" "Standing" "29" 65
+"90" "Standing" "30" 59
+"91" "Walking" "1" 95
+"92" "Walking" "2" 59
+"93" "Walking" "3" 58
+"94" "Walking" "4" 60
+"95" "Walking" "5" 56
+"96" "Walking" "6" 57
+"97" "Walking" "7" 57
+"98" "Walking" "8" 48
+"99" "Walking" "9" 52
+"100" "Walking" "10" 53
+"101" "Walking" "11" 59
+"102" "Walking" "12" 50
+"103" "Walking" "13" 57
+"104" "Walking" "14" 59
+"105" "Walking" "15" 54
+"106" "Walking" "16" 51
+"107" "Walking" "17" 61
+"108" "Walking" "18" 56
+"109" "Walking" "19" 52
+"110" "Walking" "20" 51
+"111" "Walking" "21" 52
+"112" "Walking" "22" 46
+"113" "Walking" "23" 59
+"114" "Walking" "24" 58
+"115" "Walking" "25" 74
+"116" "Walking" "26" 59
+"117" "Walking" "27" 57
+"118" "Walking" "28" 54
+"119" "Walking" "29" 53
+"120" "Walking" "30" 65
+"121" "Walking Downstairs" "1" 49
+"122" "Walking Downstairs" "2" 47
+"123" "Walking Downstairs" "3" 49
+"124" "Walking Downstairs" "4" 45
+"125" "Walking Downstairs" "5" 47
+"126" "Walking Downstairs" "6" 48
+"127" "Walking Downstairs" "7" 47
+"128" "Walking Downstairs" "8" 38
+"129" "Walking Downstairs" "9" 42
+"130" "Walking Downstairs" "10" 38
+"131" "Walking Downstairs" "11" 46
+"132" "Walking Downstairs" "12" 46
+"133" "Walking Downstairs" "13" 47
+"134" "Walking Downstairs" "14" 45
+"135" "Walking Downstairs" "15" 42
+"136" "Walking Downstairs" "16" 47
+"137" "Walking Downstairs" "17" 46
+"138" "Walking Downstairs" "18" 55
+"139" "Walking Downstairs" "19" 39
+"140" "Walking Downstairs" "20" 45
+"141" "Walking Downstairs" "21" 45
+"142" "Walking Downstairs" "22" 36
+"143" "Walking Downstairs" "23" 54
+"144" "Walking Downstairs" "24" 55
+"145" "Walking Downstairs" "25" 58
+"146" "Walking Downstairs" "26" 50
+"147" "Walking Downstairs" "27" 44
+"148" "Walking Downstairs" "28" 46
+"149" "Walking Downstairs" "29" 48
+"150" "Walking Downstairs" "30" 62
+"151" "Walking Upstairs" "1" 53
+"152" "Walking Upstairs" "2" 48
+"153" "Walking Upstairs" "3" 59
+"154" "Walking Upstairs" "4" 52
+"155" "Walking Upstairs" "5" 47
+"156" "Walking Upstairs" "6" 51
+"157" "Walking Upstairs" "7" 51
+"158" "Walking Upstairs" "8" 41
+"159" "Walking Upstairs" "9" 49
+"160" "Walking Upstairs" "10" 47
+"161" "Walking Upstairs" "11" 54
+"162" "Walking Upstairs" "12" 52
+"163" "Walking Upstairs" "13" 55
+"164" "Walking Upstairs" "14" 54
+"165" "Walking Upstairs" "15" 48
+"166" "Walking Upstairs" "16" 51
+"167" "Walking Upstairs" "17" 48
+"168" "Walking Upstairs" "18" 58
+"169" "Walking Upstairs" "19" 40
+"170" "Walking Upstairs" "20" 51
+"171" "Walking Upstairs" "21" 47
+"172" "Walking Upstairs" "22" 42
+"173" "Walking Upstairs" "23" 51
+"174" "Walking Upstairs" "24" 59
+"175" "Walking Upstairs" "25" 65
+"176" "Walking Upstairs" "26" 55
+"177" "Walking Upstairs" "27" 51
+"178" "Walking Upstairs" "28" 51
+"179" "Walking Upstairs" "29" 49
+"180" "Walking Upstairs" "30" 65

@@ -1,0 +1,36 @@
+---
+title: "CodeBook"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Code Book for run_analysis.R
+
+#Identifiers:
+1.Activity Label  
+2.Subject
+
+#Variables:
+1. Train and Test Data of 10297 observations  
+2. BodyAccX of 10297  observations  
+3. BodyAccY of 10297 observations  
+4. BodyAccZ of 10297 observations  
+5. GyroX of 10297 observations  
+6. GyroY of 10297 observations  
+7. GyroZ of 10297 observations  
+8. TotalAccX of 10297 observations  
+9. TotalAccY of 10297 observations  
+10. TotalAccZ of 10297 observations  
+11. DataU - convert each factor into character  
+12. DataULSS - list of split characters   
+13. DataULSSN - convert into numeric  
+14. MeanDataULSSR - mean of each observation for each of 10297 observations for each variable  
+15. StandardDeviationULSSR - standard deviation of each of 10297 observations for each variable  
+16. MergedDataSet - Merge of training and test data for all variables  
+17. sd - (standard deviation) inserted before variable column names after calculating standard deviation  
+18. md - (mean) inserted befor variable column names after calculating mean  
+19. TidyData - dataframe returned for average of each observations for every activity and subject.(It gives the count of observations)  
+

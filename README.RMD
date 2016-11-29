@@ -1,0 +1,26 @@
+---
+title: "Read Me"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Read Me for Code
+
+
+
+The code as per the Run_Analysis works as follows:
+
+1. Load all the training data along with subject and activity data into dataframes
+2. Load all the test data along with subject and activity data into dataframes
+3. Merge training and test data by using cbind and rbind functions
+4. Then cleanse each of the measured data in each row and column by unfactoring, unlisting and omitting blanks/NAs
+5. Take the mean and standard deviation of each of the measurements and add to the Merged Data Set.
+6. Assign descriptive names to all columns
+7. Relabel the Activities with Descriptive name
+8. Find the average of each measurement for every activity and subject 
+9. Write the tidy set into a text file
+
+Note: I tried to use function to cleanse the data but it runs forever in my system
