@@ -1,3 +1,5 @@
+
+
 TrainData <- read.csv("C:/Users/vivek/Desktop/DataScience/GettindandCleaningData/UCIHARDataset/train/X_train.txt")
 TrainDataLabels <- read.csv("C:/Users/vivek/Desktop/DataScience/GettindandCleaningData/UCIHARDataset/train/y_train.txt")
 TrainDataSubjects <- read.csv("C:/Users/vivek/Desktop/DataScience/GettindandCleaningData/UCIHARDataset/train/subject_train.txt")
@@ -246,11 +248,18 @@ MergedDataSet$DataActivityLabels[MergedDataSet$DataActivityLabels == 6] <- "Layi
 MergedDataSet[,1] <- as.factor(MergedDataSet[,1])
 MergedDataSet[,2] <- as.factor(MergedDataSet[,2])
 
+MergedDataSetMelted <- melt(MergedDataSet, id = c("DataActivityLabels","DataSubjects"), measure.vars = c("meandata","standarddeviationdata",
+                                                                                                         "meanbodyaccx","standarddeviationbodyaccx","meanbodyaccy","standarddeviationbodyaccy",
+                                                                                                         "meanbodyaccz","standarddeviationbodyaccz","meangyrox","standarddeviationgyrox",
+                                                                                                         "meangyroy","standarddeviationgyroy","meangyroz","standarddeviationgyroz",
+                                                                                                         "meantotalaccx","standarddeviationtotalaccx","meantotalaccy","standarddeviationtotalaccy",
+                                                                                                         "meantotalaccz","standarddeviationtotalaccz"))
+
+MergedDataSetCasted <- dcast(MergedDataSetMelted,DataActivityLabels + DataSubjects ~ variable, mean)
+
+write.table(MergedDataSetCasted, file = "TidyData.txt", row.names = FALSE)
 
 
-TidyData <- ddply(MergedDataSet,.(DataActivityLabels,DataSubjects),count)
-
-write.table(TidyData, file = "TidyData.txt", row.names = TRUE)
 
 
 
@@ -258,8 +267,6 @@ write.table(TidyData, file = "TidyData.txt", row.names = TRUE)
 
 
 
-
-
-#######################################################################################################################################3
+#######################################################################################################################################
 
 
